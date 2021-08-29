@@ -1,0 +1,16 @@
+
+
+SELECT * FROM `user`
+
+
+user_id	email	name	password	registration_date	
+	ahmad@yahoo.com	ahmad	ahmad	0000-00-00	
+	blue@yahoo.com	blue	vbvb	0000-00-00	
+	fido@yahoo.com	fifo	cvcv	0000-00-00	
+	tarneemsalah@icloud.com	Tarneem Salah	rere	0000-00-00	
+	ujuj@taey.com	ujuj	uuu	0000-00-00	
+
+
+
+
+INSERT INTO `depart` (`dep_id`, `name`, `description`) VALUES (NULL, 'Tarneem Salah', 'sales depart'), (NULL, 'jake', 'IT depart')
